@@ -1,0 +1,29 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{font-size: 40px;}
+.a{color: orange;}
+section{display: flex;}
+.b{width: 50%;
+padding-left:  5%;}
+.b img{
+    width: 80%;
+}
+.c{
+    text-decoration: none;
+    background-color: orange;
+padding: 10px 40px;
+}
+.ex{border-left: 5px solid rgb(214, 74, 74);
+padding: 10px 10px;}
+#ab{
+    padding-top: 25px;
+
+}
+footer h1{text-align: center;}
+.d{
+    color: green;
+}
+.e{
+    color: rgb(28, 146, 161);
+}
