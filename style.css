@@ -7,7 +7,7 @@ h1{font-size: 40px;}
 .b{width: 50%;
 padding-left:  5%;
 margin-left: 2%;
-margin-right: ;
+
 }
 .b img{
     width: 80%;
@@ -35,9 +35,7 @@ footer h1{text-align: center;}
 .e{
     color: rgb(28, 146, 161);
 }
-.f{
 
-}
 .ma{
     background-color: whitesmoke;
     border-radius: 5%;
@@ -56,10 +54,36 @@ footer h1{text-align: center;}
 .sali img{
     width: 80%;
     margin-top: 100px;
-    margin-left: 50px;
+    margin-left: 100px;
 }
 .sal{
     margin-top: 100px;
     margin-left: 50px;
 }
 section{display: flex;}
+.amar{
+    margin-top: 30px;
+}
+.jan{
+    color: orange;
+}
+.san{
+    margin-top: 100px;
+    margin-left: 15%;
+}
+footer h2 {
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+}
+.jhankar{
+    background-color: rgb(99, 86, 86);
+}
+.salir img{
+    width: 65%;
+    margin-top: 100px;
+    margin-left: 100px;
+    border-radius: 5%;
+}
