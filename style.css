@@ -3,16 +3,24 @@ body{
 }
 h1{font-size: 40px;}
 .a{color: orange;}
-section{display: flex;}
+.flexible-container{display: flex;}
 .b{width: 50%;
-padding-left:  5%;}
+padding-left:  5%;
+margin-left: 2%;
+margin-right: ;
+}
 .b img{
     width: 80%;
+
 }
-.c{
-    text-decoration: none;
-    background-color: orange;
-padding: 10px 40px;
+.c{text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+     padding: 10px 30px;
+     color: white;
+     font-weight: 700;
+    border-radius: 5px;
+    margin-top: 20px;
+   
 }
 .ex{border-left: 5px solid rgb(214, 74, 74);
 padding: 10px 10px;}
@@ -27,3 +35,31 @@ footer h1{text-align: center;}
 .e{
     color: rgb(28, 146, 161);
 }
+.f{
+
+}
+.ma{
+    background-color: whitesmoke;
+    border-radius: 5%;
+    
+   
+}
+.mb{
+    background-color: rgb(235, 213, 213);
+    border-radius: 5%;
+ 
+}
+.mc{
+    background-color: rgb(226, 226, 167);
+    border-radius: 5%;
+}
+.sali img{
+    width: 80%;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.sal{
+    margin-top: 100px;
+    margin-left: 50px;
+}
+section{display: flex;}
